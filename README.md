@@ -1,4 +1,4 @@
-# AI Cestovani-po-Evrope.io
+# davidkupka.github.io/AI-Cestovani-po-Evrope.io
 
 Postup tvorby – Prompty AI
       
